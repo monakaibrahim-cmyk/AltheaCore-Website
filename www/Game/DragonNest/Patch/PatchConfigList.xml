@@ -1,0 +1,11 @@
+<document>
+    <ChannelList channel_name="channel1">
+        <Local local_name="Dragon Nest">
+            <version addr="http://127.0.0.1/Game/DragonNest/patch/" />
+            <update addr="http://127.0.0.1/Game/DragonNest/patch/" />
+            <guidepage addr="http://us.dragonnest.com/game/dnlauncher" />
+            <homepage addr="http://us.dragonnest.com" />
+            <login addr="127.0.0.1" port="14300" />
+        </Local>
+    </ChannelList>
+</document>
